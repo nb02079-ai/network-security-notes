@@ -25,14 +25,20 @@
 | 2026-08-24 | DNS zone 파일 · Windows Server(IIS·FTP·DNS) | [notes](2026-08-24/notes.md) |
 | 2026-08-25 | Windows 로컬 보안 정책 · NFS · Samba · rsyslog(+MariaDB) | [notes](2026-08-25/notes.md) |
 | 2026-08-27 | SQL 조회·집계·백업 · DB 복제 · Ubuntu/Docker · PMM 모니터링 | [notes](2026-08-27/notes.md) |
+| 2026-08-28 | MariaDB 권한 관리(GRANT/REVOKE) | [notes](2026-08-28/notes.md) |
+| 2026-08-31 | Docker 기초 · Zabbix(NMS) 구축 · Reflexive/Dynamic ACL | [notes](2026-08-31/notes.md) |
+| 2026-09-03 | ASAv Failover(HA) · pfSense · 공격용 webterm 설정 | [notes](2026-09-03/notes.md) |
+| 2026-09-07 | pfSense 라우팅·방화벽 규칙(GNS3 연동) | [notes](2026-09-07/notes.md) |
+| 2026-10-02 | CTF 모의해킹 공격 체인(Double Trouble/inner) — 방어 관점 정리 | [notes](2026-10-02/notes.md) |
 
 ## 주제 인덱스
 
 - **라우팅/스위칭**: OSI·TCP/IP(08-12), 서브네팅·RIP(08-13), EIGRP·VLAN·DHCP(08-14), OSPF·재분배(08-18), FHRP·IPv6·L3 스위치(08-19)
-- **네트워크 보안**: ACL(08-18), NAT/PAT(08-18), VPN GRE·IPsec(08-18~19)
+- **네트워크 보안**: ACL(08-18), NAT/PAT(08-18), VPN GRE·IPsec(08-18~19), Reflexive/Dynamic ACL(08-31), ASA Failover·pfSense·UTM(09-03·09-07)
 - **시스템/서버**: Linux 기초·권한·APM(08-20), HTTPS·FTP·DNS(08-21), Windows Server IIS/FTP/DNS(08-24), 로컬 보안 정책·NFS·Samba·rsyslog(08-25)
-- **데이터베이스**: SQL DDL/DML(08-21), 조회·집계·백업·복제(08-27)
-- **운영/모니터링**: Ubuntu·Docker·PMM(08-27)
+- **데이터베이스**: SQL DDL/DML(08-21), 조회·집계·백업·복제(08-27), 권한 관리(08-28)
+- **운영/모니터링**: Ubuntu·Docker·PMM(08-27), Docker·Zabbix(08-31)
+- **모의해킹/CTF**: 공격 체인 + 방어 매핑(10-02)
 
 ---
 

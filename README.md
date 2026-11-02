@@ -37,7 +37,13 @@
 | 2026-09-18 | 웹 정찰 짧은 메모(gobuster) | [notes](2026-09-18/notes.md) |
 | 2026-09-21 | enum4linux · 리버스 셸 · getcap/setcap 권한상승 · DVWA Brute Force | [notes](2026-09-21/notes.md) |
 | 2026-09-22 | 정찰 복습 · SSH키 크랙 · linPEAS · CVE 권한상승 · DVWA Command Injection | [notes](2026-09-22/notes.md) |
+| 2026-09-29 | DVWA 공격 실습(File Upload·SQLi·Command Injection·XSS·CSRF) | [notes](2026-09-29/notes.md) |
+| 2026-10-01 | feroxbuster/fcrackzip · msfvenom(war) · SUID LFILE · DVWA CSRF | [notes](2026-10-01/notes.md) |
 | 2026-10-02 | CTF 모의해킹 공격 체인(Double Trouble/inner) — 방어 관점 정리 | [notes](2026-10-02/notes.md) |
+| 2026-10-08 | bWAPP(Bee-Box) ① — Injection 계열 | [notes](2026-10-08/notes.md) |
+| 2026-10-12 | bWAPP(Bee-Box) ② — XSS 변형 · 구성/접근제어/DoS | [notes](2026-10-12/notes.md) |
+| 2026-10-14 | bWAPP(Bee-Box) ③ — TLS/암호 공격 · 경로/파일 · SSRF/XXE | [notes](2026-10-14/notes.md) |
+| 2026-10-19 | bWAPP(Bee-Box) ④ — 알려진 CVE·웹 취약점 총정리 · Suninatas | [notes](2026-10-19/notes.md) |
 
 ## 주제 인덱스
 
@@ -49,6 +55,8 @@
 - **클라우드**: IaaS/PaaS/SaaS·Docker/K8s·MSA(09-14)
 - **방어 탐지**: IDS/IPS·DDoS(09-09)
 - **모의해킹/CTF**: hping3(09-09), 정찰·LFI·권한상승·redis(09-17), gobuster(09-18), enum4linux·리버스셸·capability·Brute Force(09-21), john·linPEAS·CVE·Command Injection(09-22), 공격 체인 + 방어 매핑(10-02)
+- **웹 취약점 실습(DVWA)**: File Upload·SQLi·XSS·Command Injection(09-29), CSRF·SUID·msfvenom(10-01)
+- **웹 취약점 실습(bWAPP/Bee-Box)**: Injection 계열(10-08), XSS·구성/접근제어/DoS(10-12), TLS공격·경로·SSRF/XXE(10-14), 알려진 CVE 총정리·WebGoat·Suninatas(10-19)
 
 ## 별도 폴더
 
